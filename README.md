@@ -1,6 +1,6 @@
 # INFOTC-1600_Project04
 **Project 04: Markdown Page on Github**
-
+This project provides experience working with markdown, Git/GitHub, and digital concepts.
 
 
 ## Page Navigation
