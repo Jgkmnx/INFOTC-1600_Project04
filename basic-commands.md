@@ -13,5 +13,5 @@ The following is a Linux command cheatsheet provided by LabEX that can be useful
 
 ### Navigation
 - [Back to Home](README.md)
-- [Next: Getting Help](file-system.md)
+- [Next: Getting Help](getting-help.md)
   
