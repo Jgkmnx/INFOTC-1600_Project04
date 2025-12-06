@@ -51,5 +51,5 @@ cd ~         # go to your home directory
 
   
 ### Navigation
-- [Back to Home](README.md)
 - [Next:Basic Linux Commands](basic-commands.md)
+- [Back to Home](README.md)
