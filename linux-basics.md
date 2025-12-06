@@ -1,8 +1,8 @@
 # What is Linux
 
-Linux is an open-source operating system. Initially conceived by Linus Torvalds in 1991 as the Linux kernel, the platform’s original core has since evolved into its current iterations thanks to global collaboration between thousands of developers and web programmers.
+Linux is an open-source operating system that began in 1991 as a project by Linus Torvalds with the creation of the Linux kernel. Over time, it has grown into a powerful and flexible platform through the contributions of thousands of developers worldwide who continue to improve and expand its capabilities.
 
-Linux manages every aspect of your computing experience, overseeing its hardware and allocating resources to ensure everything runs smoothly. It also affords multiple desktop environments, meaning you can customize your computer’s look and feel to your personal preferences.
+As an operating system, Linux controls how your computer functions by managing hardware and system resources to keep everything running efficiently. It also offers a wide selection of desktop environments, allowing users to customize both the appearance and usability of their system to suit individual preferences. [1]
 
 
 ![Linux Penguin](linux.jpg)
