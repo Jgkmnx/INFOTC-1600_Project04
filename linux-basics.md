@@ -11,9 +11,9 @@ As an operating system, Linux controls how your computer functions by managing h
 
 
 ## Important Characteristics:
-- **Open-source** – the source code is available to everyone
-- **Multi-user** – many users can use the system at once
-- **Secure and stable** – widely used in servers and cybersecurity
+- **Open-source:** the source code is available to everyone
+- **Multi-user:** many users can use the system at once
+- **Secure and stable:** widely used in servers and cybersecurity
 
 
 ## The Linux operating system is comprised of the following components:
