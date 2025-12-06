@@ -1,4 +1,6 @@
-# What is Linux
+# Linux Basics
+
+## What is Linux? 
 
 Linux is an open-source operating system that began in 1991 as a project by Linus Torvalds with the creation of the Linux kernel. Over time, it has grown into a powerful and flexible platform through the contributions of thousands of developers worldwide who continue to improve and expand its capabilities[1].
 
@@ -14,7 +16,7 @@ As an operating system, Linux controls how your computer functions by managing h
 - **Secure and stable** – widely used in servers and cybersecurity
 
 
-## The Linux operating system is comprised of the following components [2]:
+## The Linux operating system is comprised of the following components:
 
 1. **Bootloader:** The software that manages the boot process of your computer.
 2. **Kernel:** The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
