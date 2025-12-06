@@ -34,6 +34,6 @@ As an operating system, Linux controls how your computer functions by managing h
 
   
 ### Navigation
-- [Back to Home](README.md)
 - [Next: Understanding the Linux File System](file-system.md)
+- [Back to Home](README.md)
   
