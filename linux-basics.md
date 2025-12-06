@@ -25,12 +25,12 @@ Linux manages every aspect of your computing experience, overseeing its hardware
 7. **Applications:** Desktop environments do not offer the full array of apps. Linux offers thousands upon thousands of high-quality software titles that can be easily found and installed.
 
 
-##Sorces 
+### Sorces 
 - [Erie Institute of Technology - https://erieit.edu/what-is-the-linux-operating-system/](https://erieit.edu/what-is-the-linux-operating-system/)
 - [Linux.com - https://www.linux.com/what-is-linux/](https://www.linux.com/what-is-linux/)
 
   
-##Navigation
+### Navigation
 - [Back to Home](README.md)
 - [Next: Understanding the Linux File System](file-system.md)
   
