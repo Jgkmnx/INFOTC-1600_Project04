@@ -44,3 +44,12 @@ ls           # list files and folders
 cd /home     # move to /home directory
 cd ..        # go up one directory
 cd ~         # go to your home directory
+```
+
+### Sorces 
+[1] [https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems]([https://erieit.edu/what-is-the-linux-operating-system/](https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems)
+
+  
+### Navigation
+- [Back to Home](README.md)
+- [Next:Basic Linux Commands](basic-commands.md)
