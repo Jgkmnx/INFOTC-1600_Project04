@@ -47,7 +47,7 @@ cd ~         # go to your home directory
 ```
 
 ### Sorces 
-[1] [https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems]([https://erieit.edu/what-is-the-linux-operating-system/](https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems)
+[1] [https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems](https://www.geeksforgeeks.org/linux-unix/linux-file-system/#linux-file-systems)
 
   
 ### Navigation
