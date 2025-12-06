@@ -12,6 +12,6 @@ The following is a Linux command cheatsheet provided by LabEX that can be useful
 [2] [https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
 
 ### Navigation
-- [Back to Home](README.md)
 - [Next: Getting Help](getting-help.md)
+- [Back to Home](README.md)
   
