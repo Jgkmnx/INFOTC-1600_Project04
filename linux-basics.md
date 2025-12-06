@@ -1,8 +1,8 @@
 # What is Linux
 
-Linux is an open-source operating system that began in 1991 as a project by Linus Torvalds with the creation of the Linux kernel. Over time, it has grown into a powerful and flexible platform through the contributions of thousands of developers worldwide who continue to improve and expand its capabilities.
+Linux is an open-source operating system that began in 1991 as a project by Linus Torvalds with the creation of the Linux kernel. Over time, it has grown into a powerful and flexible platform through the contributions of thousands of developers worldwide who continue to improve and expand its capabilities[1].
 
-As an operating system, Linux controls how your computer functions by managing hardware and system resources to keep everything running efficiently. It also offers a wide selection of desktop environments, allowing users to customize both the appearance and usability of their system to suit individual preferences. [1]
+As an operating system, Linux controls how your computer functions by managing hardware and system resources to keep everything running efficiently. It also offers a wide selection of desktop environments, allowing users to customize both the appearance and usability of their system to suit individual preferences[1]. 
 
 
 ![Linux Penguin](linux.jpg)
@@ -14,7 +14,7 @@ As an operating system, Linux controls how your computer functions by managing h
 - **Secure and stable** – widely used in servers and cybersecurity
 
 
-## The Linux operating system is comprised of the following components:
+## The Linux operating system is comprised of the following components [2]:
 
 1. **Bootloader:** The software that manages the boot process of your computer.
 2. **Kernel:** The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
@@ -26,8 +26,8 @@ As an operating system, Linux controls how your computer functions by managing h
 
 
 ### Sorces 
-- [Erie Institute of Technology - https://erieit.edu/what-is-the-linux-operating-system/](https://erieit.edu/what-is-the-linux-operating-system/)
-- [Linux.com - https://www.linux.com/what-is-linux/](https://www.linux.com/what-is-linux/)
+[1] [Erie Institute of Technology - https://erieit.edu/what-is-the-linux-operating-system/](https://erieit.edu/what-is-the-linux-operating-system/)
+[2] [Linux.com - https://www.linux.com/what-is-linux/](https://www.linux.com/what-is-linux/)
 
   
 ### Navigation
