@@ -27,6 +27,7 @@ As an operating system, Linux controls how your computer functions by managing h
 
 ### Sorces 
 [1] [Erie Institute of Technology - https://erieit.edu/what-is-the-linux-operating-system/](https://erieit.edu/what-is-the-linux-operating-system/)
+
 [2] [Linux.com - https://www.linux.com/what-is-linux/](https://www.linux.com/what-is-linux/)
 
   
