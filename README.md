@@ -3,9 +3,11 @@
 
 This repo gives individuals new to linux an overview of the operating system and other basic information on how linux is used.
 
-Target audiance: Those looking to learn more about linux.
 
-**Author: Joshua Krupp**
+
+**Target audiance:** Those looking to learn more about linux.
+
+**Author:** Joshua Krupp
 
 ## Page Navigation
 
