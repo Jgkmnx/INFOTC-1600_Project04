@@ -1,5 +1,5 @@
-# INFOTC-1600 Final Project - Linux Basics Repo
-**Project 04: Markdown Page on Github**
+# INFOTC-1600 Final Project 
+**Linux Basics Repo**
 
 This repo gives individuals new to linux an overview of the operating system and other basic information on how linux is used.
 
